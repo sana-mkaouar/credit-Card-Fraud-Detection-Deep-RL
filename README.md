@@ -111,5 +111,5 @@ This repository can contain the following documentation assets:
 
 ---
 
-**Authors:** Sana Mkaouar and Arij Bouazizi  
+
 **Topic:** Reinforcement Learning · Deep Q-Networks · Fraud Detection · Decision Optimization
